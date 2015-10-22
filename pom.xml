@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Hasher</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1-SNAPSHOT</version>
     <name>Hasher</name>
     <description>WebJar for Hasher</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/Hasher</url>
         <connection>scm:git:https://github.com/webjars/Hasher.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Hasher.git</developerConnection>
-        <tag>Hasher-1.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
